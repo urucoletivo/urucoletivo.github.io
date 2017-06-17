@@ -1,1 +1,1 @@
-# galeriauru
+# uru.art.br

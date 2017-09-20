@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Olá Mundo : Bem vindo ao Coletivo URU"
+img: himalayan.jpg # Add image post (optional)
+date: 2017-09-20 12:55:00 +0300
+description: "Esse é o primeiro POST em nosso blog." # Add post description (optional)
+tag: [Blog]
+---
+
+Bem-vindo ao Coletivo URU. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a publicar!
+
+> Seja vem vindo ...

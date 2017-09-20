@@ -1,29 +1,26 @@
 logo: # add logo name
-title: GreenMind - Um pouco da minha loucura
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: "Coletivo URU - Arte, Ciência e Tecnologia."
+description: "Coletivo URU: arte, ciência e tecnologia, tem como objetivo, produzir, promover e investigar as artes mais precisamente tecnológicas e ou midiáticas para criar organismos híbridos entre atomos/bits."
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "julio-cesar-ferreira-rodrigues.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "urucoletivo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: "GreenMind" # add banner title
-banner-desc: "O caminho dessa loucura" # add banner description
+banner-title: "Coletivo URU" # add banner title
+banner-desc: "Coletivo URU - Arte, Ciência e Tecnologia." # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: "GreenMind" # your name
-about-author: "Olá eu sou o GreenMind , apaixonado e amante da tecnologia tenho como meta compartilhar o meu dia a dia e tentar ajudar pessoas que assim como eu também está iniciando nessa loucura." # about author
-email: greenmind.sec@gmail.com # your email
-phone: (14)-99701-0196 # your pnone number
-website: https://greenmind.top # you website
+author-name: "Coletivo URU" # your name
+about-author: "" # about author
+email: urucoletivo@gmail.com # your email
+phone: (14)-xxxxx-xxxx # your pnone number
+website: http://uru.art.br # you website
 
 # Social link
 google_url:    # add url link
-twitter_url:   # add url link 
+twitter_url:   # add url link
 instagram_url: # add url link
 pinterest_url: # add url link
 dribbble_url:  # add url link

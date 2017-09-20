@@ -1,6 +1,6 @@
 logo: # add logo name
 title: GreenMind - Um pouco da minha loucura
-description: > Coletivo URU: arte, ciência e tecnologia, tem como objetivo, produzir, promover e investigar as artes mais precisamente tecnológicas e ou midiáticas para criar organismos híbridos entre atomos/bits.
+description: "Coletivo URU: arte, ciência e tecnologia, tem como objetivo, produzir, promover e investigar as artes mais precisamente tecnológicas e ou midiáticas para criar organismos híbridos entre atomos/bits."
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "urucoletivo.github.io" # the base hostname & protocol for your site, e.g. http://example.com

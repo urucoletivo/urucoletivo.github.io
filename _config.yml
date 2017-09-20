@@ -19,12 +19,12 @@ phone: (14)-xxxxx-xxxx # your pnone number
 website: http://uru.art.br # you website
 
 # Social link
-google_url:    # add url link
-twitter_url:   # add url link
-instagram_url: # add url link
-pinterest_url: # add url link
-dribbble_url:  # add url link
-facebook_url: "https://www.facebook.com/profile.php?id=100011756522947" # add url link
+#google_url:    # add url link
+#twitter_url:   # add url link
+#instagram_url: # add url link
+#pinterest_url: # add url link
+#dribbble_url:  # add url link
+facebook_url: "https://www.facebook.com/Coletivo-URU-170672206810563/" # add url link
 
 # Disqus
 discus_identifier: mr-brown # add your discus identifier

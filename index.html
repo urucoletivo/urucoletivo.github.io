@@ -1,15 +1,17 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Coletivo URU</title>
-  </head>
+---
+layout: main
+---
 
-  <body>
-    <!--
-    Pagina em construção
-    Sendo redirecionado para a wiki
-    -->
-    <META http-equiv="refresh" content="0;URL=http://uru.art.br/wiki">
-  </body>
-
-</html>
+{% for post in paginator.posts %}
+  <div class="chapter">
+    <a href="{{post.url | prepend: site.baseurl}}">
+      {% if post.img %}
+      <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+      {% endif %}
+    </a>
+    <div class="chapter_inner">
+      <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>
+      <h3 class="chapter_title">{{post.title}}</h3>
+    </div>
+  </div>
+{% endfor %}

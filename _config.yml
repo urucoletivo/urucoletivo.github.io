@@ -30,7 +30,7 @@ facebook_url: "https://www.facebook.com/Coletivo-URU-170672206810563/" # add url
 discus_identifier: "uru-coletivo" # add your discus identifier
 
 # Newsletter
-mailchimp: "http://art.us16.list-manage.com/subscribe?u=2561b502088a6691c2934151c&id=4801c11c88" # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: "art.us16.list-manage.com/subscribe?u=2561b502088a6691c2934151c&id=4801c11c88" # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Tracker
 analytics:
